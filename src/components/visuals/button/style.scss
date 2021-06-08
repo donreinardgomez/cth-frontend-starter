@@ -1,0 +1,15 @@
+@import '../.global/global.scss';
+
+.button {
+  &-primary {
+    background-color: $primary;
+  }
+
+  &-secondary {
+    background-color: $primary-1;
+  }
+
+  &-tertiary2 {
+    background-color: $primary-2;
+  }
+}

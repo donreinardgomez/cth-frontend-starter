@@ -1,0 +1,20 @@
+<svg id="BI_company" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <path id="パス_387" data-name="パス 387" d="M555-91v-7a1,1,0,0,0-1-1,1,1,0,0,0-1,1v7" transform="translate(-516 130)" fill="#26c39c"/>
+  <g id="グループ_9" data-name="グループ 9" transform="translate(-516 130)">
+    <path id="パス_388" data-name="パス 388" d="M553-91h-6v-14h6v3c0,.552.448,0,1,0s1,.552,1,0v-3.99a1.018,1.018,0,0,0-1.01-1.01H547v-14.99a1.018,1.018,0,0,0-1.01-1.01H532.01a1.018,1.018,0,0,0-1.01,1.01V-112h-6.99a1.018,1.018,0,0,0-1.01,1.01V-91h-1a1,1,0,0,0-1,1,1,1,0,0,0,1,1h36a1,1,0,0,0,1-1,1,1,0,0,0-1-1h-5Zm-28-19h6v19h-6Zm8-.99V-121h12v30h-3v-5a1,1,0,0,0-1-1h-4a1,1,0,0,0-1,1v5h-3ZM538-91v-4h2v4Z" fill="#fff"/>
+    <path id="パス_389" data-name="パス 389" d="M528-96a1,1,0,0,0-1,1v1a1,1,0,0,0,1,1,1,1,0,0,0,1-1v-1A1,1,0,0,0,528-96Z" fill="#53b7f6"/>
+    <path id="パス_390" data-name="パス 390" d="M528-100a1,1,0,0,0-1,1v1a1,1,0,0,0,1,1,1,1,0,0,0,1-1v-1A1,1,0,0,0,528-100Z" fill="#53b7f6"/>
+    <path id="パス_391" data-name="パス 391" d="M528-104a1,1,0,0,0-1,1v1a1,1,0,0,0,1,1,1,1,0,0,0,1-1v-1A1,1,0,0,0,528-104Z" fill="#53b7f6"/>
+    <path id="パス_392" data-name="パス 392" d="M528-108a1,1,0,0,0-1,1v1a1,1,0,0,0,1,1,1,1,0,0,0,1-1v-1A1,1,0,0,0,528-108Z" fill="#53b7f6"/>
+    <rect id="長方形_343" data-name="長方形 343" width="3" height="3" rx="1" transform="translate(535 -119)" fill="#53b7f6"/>
+    <rect id="長方形_344" data-name="長方形 344" width="3" height="3" rx="1" transform="translate(540 -119)" fill="#53b7f6"/>
+    <rect id="長方形_345" data-name="長方形 345" width="3" height="3" rx="1" transform="translate(535 -114)" fill="#53b7f6"/>
+    <rect id="長方形_346" data-name="長方形 346" width="3" height="3" rx="1" transform="translate(540 -114)" fill="#53b7f6"/>
+    <rect id="長方形_347" data-name="長方形 347" width="3" height="3" rx="1" transform="translate(535 -109)" fill="#53b7f6"/>
+    <rect id="長方形_348" data-name="長方形 348" width="3" height="3" rx="1" transform="translate(540 -109)" fill="#53b7f6"/>
+    <rect id="長方形_349" data-name="長方形 349" width="3" height="3" rx="1" transform="translate(535 -104)" fill="#53b7f6"/>
+    <rect id="長方形_350" data-name="長方形 350" width="3" height="3" rx="1" transform="translate(540 -104)" fill="#53b7f6"/>
+  </g>
+  <rect id="長方形_351" data-name="長方形 351" width="48" height="48" fill="none"/>
+  <path id="パス_393" data-name="パス 393" d="M554-93a5.006,5.006,0,0,1-5-5,5.006,5.006,0,0,1,5-5,5.006,5.006,0,0,1,5,5A5.006,5.006,0,0,1,554-93Zm0-8a3,3,0,0,0-3,3,3,3,0,0,0,3,3,3,3,0,0,0,3-3A3,3,0,0,0,554-101Z" transform="translate(-516 130)" fill="#26c39c"/>
+</svg>

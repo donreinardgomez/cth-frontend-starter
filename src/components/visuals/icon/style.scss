@@ -1,0 +1,157 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url(\./assets/icomoon.woff?31x4pm) format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon {
+  font-family: 'icomoon' !important;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  &.circular {
+    border-radius: 50%;
+    padding: 5px;
+
+    &.size {
+      &-x-large,
+      &-xx-large {
+        padding: 10px;
+      }
+    }
+  }
+
+  &.clickable {
+    cursor: pointer;
+    &:hover {
+      filter: brightness(120%);
+    }
+  }
+}
+
+.size {
+  &-x-small {
+    font-size: 10px;
+  }
+
+  &-small {
+    font-size: 16px;
+  }
+
+  &-medium {
+    font-size: 24px;
+  }
+
+  &-large {
+    font-size: 32px;
+    padding: 10px;
+  }
+
+  &-x-large {
+    font-size: 40px;
+    padding: 10px;
+  }
+
+  &-xx-large {
+    font-size: 48px;
+    padding: 10px;
+  }
+
+  &-xxx-large {
+    font-size: 60px;
+    padding: 10px;
+  }
+}
+
+.display {
+  &-block {
+    display: block;
+  }
+
+  &-inline {
+    display: inline;
+  }
+}
+.home {
+  &::before {
+    content: '\e900';
+  }
+}
+
+.home2 {
+  &::before {
+    content: '\e901';
+  }
+}
+
+.home3 {
+  &::before {
+    content: '\e902';
+  }
+}
+
+.office {
+  &::before {
+    content: '\e903';
+  }
+}
+
+.newspaper {
+  &::before {
+    content: '\e904';
+  }
+}
+
+.pencil {
+  &::before {
+    content: '\e905';
+  }
+}
+
+.pencil2 {
+  &::before {
+    content: '\e906';
+  }
+}
+
+.quill {
+  &::before {
+    content: '\e907';
+  }
+}
+
+.pen {
+  &::before {
+    content: '\e908';
+  }
+}
+
+.blog {
+  &::before {
+    content: '\e909';
+  }
+}
+
+.eyedropper {
+  &::before {
+    content: '\e90a';
+  }
+}
+
+.droplet {
+  &::before {
+    content: '\e90b';
+  }
+}
+
+.paint {
+  &:-format:before {
+    content: '\e90c';
+  }
+}

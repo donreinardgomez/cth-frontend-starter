@@ -1,0 +1,95 @@
+.logo {
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.clickable {
+  cursor: pointer;
+
+  &:hover {
+    filter: brightness(120%);
+  }
+}
+.analysis {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/analysis.svg);
+}
+
+.comment {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/comment.svg);
+}
+
+.company-active {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/company-active.svg);
+}
+
+.company {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/company.svg);
+}
+
+.dashboard-active {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/dashboard-active.svg);
+}
+
+.dashboard {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/dashboard.svg);
+}
+
+.data-input-active {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/data-input-active.svg);
+}
+
+.data-input {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/data-input.svg);
+}
+
+.dictionary {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/dictionary.svg);
+}
+
+.format-active {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/format-active.svg);
+}
+
+.format {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/format.svg);
+}
+
+.graph {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/graph.svg);
+}
+
+.home-active {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/home-active.svg);
+}
+
+.home {
+  width: 48px;
+  height: 48px;
+  background-image: url(\./assets/home.svg);
+}

@@ -1,0 +1,100 @@
+@import '../.global/global.scss';
+
+.text-display {
+  font-family: $main-font;
+
+  &.truncate-ellipsis {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+}
+
+.size {
+  &-x-small {
+    font-size: 10px;
+  }
+
+  &-small {
+    font-size: 12px;
+  }
+
+  &-medium {
+    font-size: 14px;
+  }
+
+  &-large {
+    font-size: 16px;
+  }
+
+  &-x-large {
+    font-size: 18px;
+  }
+}
+
+.weight {
+  &-bold {
+    font-weight: bold;
+  }
+
+  &-normal {
+    font-weight: normal;
+  }
+}
+
+.color {
+  &-primary {
+    color: $primary;
+  }
+
+  &-primary-3 {
+    color: $primary-3;
+  }
+
+  &-gray-1 {
+    color: $gray-1;
+  }
+
+  &-gray-3 {
+    color: $gray-3;
+  }
+
+  &-white {
+    color: $white;
+  }
+}
+
+.display {
+  &-inline {
+    display: inline-block;
+  }
+
+  &-block {
+    display: block;
+  }
+
+  &-flex-centered-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.align {
+  &-center {
+    text-align: center;
+  }
+
+  &-end {
+    text-align: end;
+  }
+
+  &-default {
+    text-align: initial;
+  }
+}
+
+.link {
+  text-decoration: underline;
+  cursor: pointer;
+}
